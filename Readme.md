@@ -13,7 +13,7 @@ This repository contains **Dockerfile** of [Node.js](http://nodejs.org/) & [Rail
 
 1. Install [Docker](https://www.docker.io/).
 
-2. Download [build](https://index.docker.io/u/glesage/nodejs+rails4/) from public [Docker Registry](https://index.docker.io/): `docker pull glesage/nodejs+rails4`
+2. Download [build](https://index.docker.io/u/glesage/nodejs-rails4/) from public [Docker Registry](https://index.docker.io/): `docker pull glesage/nodejs-rails4`
 
 ### Usage
 

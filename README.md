@@ -1,4 +1,5 @@
-## Node.js & Rails 4 Dockerfile
+Node.js & Rails 4 Dockerfile
+============================
 
 
 This repository contains **Dockerfile** of [Node.js](http://nodejs.org/) & [Rails 4](http://rubyonrails.org/) for [Docker](https://www.docker.io/) published to the public [Docker Registry](https://index.docker.io/).
